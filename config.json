@@ -1,6 +1,6 @@
 {
 	"host": "roach5555.aternos.me",
-	"port": "E59678",
+	"port": "59678",
 	"username": "geekpanties",
 	"logger": [ true
 		,"true : display not necessary logs. (ex: key inputs on bot)",
